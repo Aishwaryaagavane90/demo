@@ -1,0 +1,9 @@
+
+hwinfo -h
+uname
+crontab
+grep
+gzip
+ssh
+scp
+su
